@@ -1,0 +1,20 @@
+{
+    "Users": [
+    { 
+        "id": 1,
+        "name": "Jonny Depp",
+        "email": "captainjack28@blurb.com"
+
+    }
+],
+
+    "Suggestions": [
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "New episode idea",
+            "description": "An episode description"
+        }
+    ]
+
+}
